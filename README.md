@@ -1,5 +1,5 @@
 - im gavin
-- my general skills/interests
+- mostly:
 - javascript(react) - python(flask,nlp,scripting) -  
 <!---
 gaviin-h/gaviin-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
